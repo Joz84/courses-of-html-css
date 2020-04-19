@@ -1,8 +1,6 @@
 # Inititiation HTML/CSS
 
-<div style="text-align: center; background: red; width: 100%;">
-  <img src="images-readme/html-css.svg" alt="html css" width=200px>
-</div>
+<img src="images-readme/html-css.svg" alt="html css" width=200px>
 
 ## Cours 1 : Bases HTML/CSS
 ### <a href="https://github.com/Joz84/day-a.github.io" target="_blanck">Lien vers le cours<a>

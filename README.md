@@ -1,6 +1,6 @@
 # Inititiation HTML/CSS
 
-<div style="text-align: center;">
+<div style="text-align: center; background: red; width: 100%;">
   <img src="images-readme/html-css.svg" alt="html css" width=200px>
 </div>
 

@@ -5,8 +5,10 @@
 ## Cours 1 : Bases HTML/CSS
 ### <a href="https://github.com/Joz84/day-a.github.io" target="_blanck">Lien vers le cours<a>
 * Les outils
-* Structure générale
+* Commencer une page web
+* Le fichier HTML
 * Trouver une image libre de droit
+* Le fichier CSS
 * Utilisation d'une police Google fonts
 * Insertion d'une vidéo Youtube
 

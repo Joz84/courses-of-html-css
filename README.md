@@ -4,20 +4,24 @@
 
 ## Cours 1 : Bases HTML/CSS
 ### <a href="https://github.com/Joz84/day-a.github.io" target="_blanck">Lien vers le cours<a>
+* Les outils
 * Structure générale
-* Pexels
-* Free logo design
+* Trouver une image libre de droit
+* Utilisation d'une police Google fonts
+* Insertion d'une vidéo Youtube
 
 ## Cours 2 : Divisions et Classes
 ### <a href="https://github.com/Joz84/day-b.github.io" target="_blanck">Lien vers le cours<a>
-* CSS avancé
-* Ui gradient
-* Paletton
+* Les divisions
+* Les classes
+* Une palettes de couleurs plus large
+* De nouvelles propriétés CSS
 
 ## Cours 3 : Flexbox
 ### <a href="https://github.com/Joz84/day-c.github.io" target="_blanck">Lien vers le cours<a>
 * Exemple : Bordure multicolore
 * Flexbox froggy
+* Création d'un logo
 * Composant : Navbar
 
 ## Cours 4 : Services et Mook-ups

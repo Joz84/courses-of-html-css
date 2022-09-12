@@ -44,3 +44,8 @@
 ### <a href="https://github.com/Joz84/day-f.github.io" target="_blanck">Lien vers le cours<a>
 * CodePen
 * La balise <a>
+
+## Cours 7 : Déploiement sur Github
+### <a href="https://github.com/Joz84/day-f.github.io" target="_blanck">Lien vers le cours<a>
+* Création de compte
+* Déploiement en ligne
